@@ -21,7 +21,7 @@ class Main extends React.Component {
                 <div id="inicio" className="container" style={{ 'padding': '55px' }}>
                     <div className="row">
                         <div className="col-md-6 col-md-offset-6">
-                            <img className="img-thumbnail img-responsive img-fluid" style={{ 'maxWidth': '100%', height: 'auto' }} src={pictureAle} />
+                            <img className="img-thumbnail img-fluid" style={{ 'maxWidth': '100%', height: 'auto' }} src={pictureAle} />
                         </div>
                         <div className="col-md-6 col-md-offset-6 align-self-center align-items-center justify-content-justify">
                             <h2 className="titulo1">{title}</h2>
@@ -87,7 +87,7 @@ class Main extends React.Component {
                         <div className="row">
                             <div className="col-md-2 col-md-offset-2">
                                 <a href={curriculum} download="CV Alejandra Meneses Carmona">
-                                    <img className="img-responsive" src={imgCuv} style={{'width': '800px', 'height': '500px','padding': '15px', 'background': 'black'}} />
+                                    <img className="img-fluid" src={imgCuv} style={{'width': '600px', 'height': '400px','padding': '15px', 'background': 'black'}} />
                                 </a>
                             </div>
                         </div>
