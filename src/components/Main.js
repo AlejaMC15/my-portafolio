@@ -85,9 +85,9 @@ class Main extends React.Component {
                     <h2 style={{ 'textAlign': 'center', 'padding': '50px', 'color': 'black' }}>Haga click en la imagen para descargar</h2>
                     <div className="container-fluid center-block d-flex justify-content-around">
                         <div className="row">
-                            <div className="col-md-2 col-md-offset-2">
+                            <div className="col-md-12 col-md-offset-12">
                                 <a href={curriculum} download="CV Alejandra Meneses Carmona">
-                                    <img className="img-fluid" src={imgCuv} style={{'width': '600px', 'height': '400px','padding': '15px', 'background': 'black'}} />
+                                    <img className="img-fluid img-responsive" src={imgCuv} style={{'width': '600px', 'height': '400px','padding': '15px', 'background': 'black'}} />
                                 </a>
                             </div>
                         </div>
