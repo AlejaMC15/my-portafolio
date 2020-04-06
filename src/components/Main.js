@@ -3,6 +3,7 @@ import pictureAle from '../images/Aleja.jpg'
 import landingPage from '../images/landingpage.jpeg'
 import formulario from '../images/tributepage.jpeg'
 import tributePage from '../images/form.jpeg'
+import curriculum from '../CV/CV Alejandra Meneses Carmona.pdf'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './Styles/index.css'
 
@@ -80,7 +81,8 @@ class Main extends React.Component {
                 <hr />
                 <div>
                     <h2 id="cv" style={{'textAlign': 'center', 'padding': '50px'}}>{titleFourth}</h2>
-                    
+                    <a href={curriculum} download="CV Alejandra Meneses Carmona">
+                    <h2 style={{'textAlign': 'center', 'padding': '50px'}}>Descargar</h2></a>
                 </div>
                 <hr />
             </div>
