@@ -82,7 +82,7 @@ class Main extends React.Component {
                 <div>
                     <h2 id="cv" style={{'textAlign': 'center', 'padding': '50px'}}>{titleFourth}</h2>
                     <a href={curriculum} download="CV Alejandra Meneses Carmona">
-                    <h2 style={{'textAlign': 'center', 'padding': '50px'}}>Descargar</h2></a>
+                    <h2 style={{'textAlign': 'center', 'padding': '50px', 'color': 'black'}}>Descargar</h2></a>
                 </div>
                 <hr />
             </div>
