@@ -1,0 +1,107 @@
+@media (max-width: 575.98px) { 
+  .nombre{
+      font-size: 100%;
+  }
+  #cards{
+     width: 100px; 
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  .nombre{
+      font-size: 540px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+  .nombre{
+      font-size: 720px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+  .nombre{
+      font-size: 960px;
+  }
+}
+
+@media (min-width: 1200px) { 
+  .nombre{
+      font-size: 1140px;
+  }
+}
+
+.nombre{
+   font-size: 25px;
+}
+
+body{
+  background-color: white;
+  font-family: 'Viaoda Libre', cursive;
+  color: black;
+  font-size: 20px;
+}
+
+.titulo1{
+  font-size: 35px;
+}
+
+.texto1{
+  font-size: 20px;
+  text-align: justify;
+}
+
+.img-thumbnail{
+  width: 500px;
+  height: 500px;
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 0 0 10px white;
+
+}
+
+.titulo2{
+  text-align: center;
+  justify-content: center;
+}
+
+.imp{
+  width: 300px;
+  height: 150px;
+}
+
+.footer {
+  color:black;
+  background-color: white;
+}
+
+.footer .footer__sections {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  padding: 20px;
+}
+
+.texto2{
+  font-size: 20px;
+  text-align: justify;
+  padding: 0px;
+  margin: 0;
+}
+
+.foo{
+  text-align: left;
+}
+
+.quiens{
+  color: white;
+}
+
+.contact{
+  color: white;
+}
+
+.footer__icons img{
+  width: 40px;
+  height: 40px;
+}
