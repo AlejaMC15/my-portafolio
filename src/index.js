@@ -22,10 +22,9 @@ ReactDOM.render(
         textOne="Como desarrolladora de Software Front-End, creo sitios web y aplicaciones a tu
         medida para que tú y tu empresa tengan éxito."
         titleTwo="¿Quien soy?"
-        paragraphOne=" Una mujer enamorada de la tecnología y con pasión por crear y aprender cosas nuevas. Formación
-        con énfasis en habilidades blandas; experiencia laboral con más de cuatro años en el área de mercadeo y ventas;
-        actualmente me encuentro adquiriendo destrezas y habilidades en el lenguaje de marcado HTML, de estilos CSS,
-        Bootstrap y en el lenguaje de programación Java Script y ReactJS. "
+        paragraphOne=" Una mujer enamorada de la tecnología y con pasión por crear y aprender cosas nuevas. Con formación
+        con énfasis en habilidades blandas, además con experiencia laboral de más de cuatro años en el área de mercadeo y ventas.
+        Tengo habilidades en HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, REACTJS, NODEJS, JSON SERVER, SCRUM."
         titleThree="Proyectos"
         titleFourth="Curriculum Vitae"
       />
