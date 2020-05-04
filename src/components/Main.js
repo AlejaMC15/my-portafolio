@@ -140,7 +140,7 @@ class Main extends React.Component {
                     <h2 id="cv" style={{ 'textAlign': 'center', 'padding': '50px' }}>{titleFourth}</h2>
                     <h2 style={{ 'textAlign': 'center', 'padding': '50px', 'color': 'black' }}>Haga click en la imagen para descargar</h2>
                     <div className="container-fluid center-block d-flex justify-content-around">
-                        <div className="row">
+                        <div className="row p-3">
                             <div className="col-md-12 col-md-offset-6">
                                 <a href={curriculum} download="CV Alejandra Meneses Carmona">
                                     <img id="imgcv" className="img-fluid img-responsive" src={imgCuv} style={{'width': '600px', 'height': '400px', 'padding': '15px', 'background': 'black'}} />
