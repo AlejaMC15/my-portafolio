@@ -49,9 +49,9 @@ class Main extends React.Component {
                 <div>
                     <h2 id="proyectos" className="titulo2" style={{ 'padding': '60px' }}>{titleThree}</h2>
                 </div>
-                <div class="container-fluid justify-content-center d-flex flex-wrap">
+                <div class="container-fluid float-right d-flex flex-wrap">
                     <div class="row row-cols-1 row-cols-md-4">
-                        <div className="col-mb-4 col-md-offset-12">
+                        <div className="col-mb-4 col-md-offset-6">
                             <div className="card">
                                 <img src={TributePage} className="card-img-top" alt="..." />
                                 <div className="card-body">
@@ -61,7 +61,7 @@ class Main extends React.Component {
                                 </div>
                             </div>
                         </div>
-                        <div classNameName="col-mb-4 col-md-offset-12">
+                        <div classNameName="col-mb-4 col-md-offset-6">
                             <div className="card">
                                 <img src={Formulario} className="card-img-top" alt="..." />
                                 <div className="card-body">
@@ -71,7 +71,7 @@ class Main extends React.Component {
                                 </div>
                             </div>
                         </div>
-                        <div classNameName="col-mb-4 col-md-offset-12">
+                        <div classNameName="col-mb-4 col-md-offset-6">
                             <div className="card">
                                 <img src={Documentación} className="card-img-top" alt="..." />
                                 <div className="card-body">
@@ -81,7 +81,7 @@ class Main extends React.Component {
                                 </div>
                             </div>
                         </div>
-                        <div classNameName="col-mb-4 col-md-offset-12">
+                        <div classNameName="col-mb-4 col-md-offset-6">
                             <div className="card">
                                 <img src={PagProducto} className="card-img-top" alt="..." />
                                 <div className="card-body">
@@ -91,9 +91,7 @@ class Main extends React.Component {
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="row row-cols-1 row-cols-md-4">
-                        <div className="col-mb-4 col-md-offset-12">
+                        <div className="col-mb-4 col-md-offset-6">
                             <div className="card">
                                 <img src={Conversor} className="card-img-top" alt="..." />
                                 <div className="card-body">
@@ -103,7 +101,7 @@ class Main extends React.Component {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-mb-4 col-md-offset-12">
+                        <div className="col-mb-4 col-md-offset-6">
                             <div className="card">
                                 <img src={Ecopay} className="card-img-top" alt="..." />
                                 <div className="card-body">
@@ -113,7 +111,7 @@ class Main extends React.Component {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-mb-4 col-md-offset-12">
+                        <div className="col-mb-4 col-md-offset-6">
                             <div className="card">
                                 <img src={Pomodoro} className="card-img-top" alt="..." />
                                 <div className="card-body">
@@ -123,7 +121,7 @@ class Main extends React.Component {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-mb-4 col-md-offset-12">
+                        <div className="col-mb-4 col-md-offset-6">
                             <div className="card">
                                 <img src={Calculadora} className="card-img-top" alt="..." />
                                 <div className="card-body">
