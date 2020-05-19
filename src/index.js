@@ -24,7 +24,7 @@ ReactDOM.render(
         titleTwo="¿Quien soy?"
         paragraphOne=" Una mujer enamorada de la tecnología y con pasión por crear y aprender cosas nuevas. Con una formación
         con énfasis en habilidades blandas, además con experiencia laboral de más de cuatro años en el área de mercadeo y ventas.
-        Tengo habilidades en HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, REACTJS, NODEJS, JSON SERVER, SCRUM."
+        Tengo habilidades en HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, REACTJS."
         titleThree="Proyectos"
         titleFourth="Curriculum Vitae"
       />
