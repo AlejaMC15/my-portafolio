@@ -52,7 +52,7 @@ class Main extends React.Component {
                 <div class="container-fluid float-right d-flex flex-wrap">
                     <div class="row row-cols-1 row-cols-md-4">
                         <div className="col-mb-4 col-md-offset-6">
-                            <div className="card">
+                            <div className="card justify-content-center">
                                 <img src={TributePage} className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title">Pagina tributo</h5>
@@ -62,7 +62,7 @@ class Main extends React.Component {
                             </div>
                         </div>
                         <div classNameName="col-mb-4 col-md-offset-6">
-                            <div className="card">
+                            <div className="card justify-content-center">
                                 <img src={Formulario} className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title">Formulario</h5>
@@ -72,7 +72,7 @@ class Main extends React.Component {
                             </div>
                         </div>
                         <div classNameName="col-mb-4 col-md-offset-6">
-                            <div className="card">
+                            <div className="card justify-content-center">
                                 <img src={Documentación} className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title">Pagina Documentación</h5>
@@ -82,7 +82,7 @@ class Main extends React.Component {
                             </div>
                         </div>
                         <div classNameName="col-mb-4 col-md-offset-6">
-                            <div className="card">
+                            <div className="card justify-content-center">
                                 <img src={PagProducto} className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title">Pagina Producto</h5>
@@ -92,7 +92,7 @@ class Main extends React.Component {
                             </div>
                         </div>
                         <div className="col-mb-4 col-md-offset-6">
-                            <div className="card">
+                            <div className="card justify-content-center">
                                 <img src={Conversor} className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title">Conversor</h5>
@@ -102,7 +102,7 @@ class Main extends React.Component {
                             </div>
                         </div>
                         <div className="col-mb-4 col-md-offset-6">
-                            <div className="card">
+                            <div className="card justify-content-center">
                                 <img src={Ecopay} className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title">ECOPAY</h5>
@@ -112,7 +112,7 @@ class Main extends React.Component {
                             </div>
                         </div>
                         <div className="col-mb-4 col-md-offset-6">
-                            <div className="card">
+                            <div className="card justify-content-center">
                                 <img src={Pomodoro} className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title">Reloj Pomodoro</h5>
@@ -122,7 +122,7 @@ class Main extends React.Component {
                             </div>
                         </div>
                         <div className="col-mb-4 col-md-offset-6">
-                            <div className="card">
+                            <div className="card justify-content-center">
                                 <img src={Calculadora} className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title">Calculadora</h5>
